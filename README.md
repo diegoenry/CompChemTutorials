@@ -8,3 +8,4 @@ Startup with simulations.
 * Molecular Docking
 * Rescoring docking poses
 * Running MD simulations
+* Analysis scripts :)
